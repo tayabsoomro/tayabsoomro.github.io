@@ -39,6 +39,8 @@ Genetics · Machine Learning · Data Science
   - Promoting good programming practices by examples to the students.
   - Grading final examinations of students.
   
+<hr />
+  
 **Teacher Assistant (Department of Computer Science)**  
   Course Title: [Techniques in Molecular Biology](https://catalogue.usask.ca/VTMC-831)
   Duration: May 2017
