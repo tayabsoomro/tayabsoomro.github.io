@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-<a href="https://www.cs.usask.ca/images/news/2018/tayabSoomro.jpg" width='250' height='250' alt='steam-fish-1'>
+
+![](https://www.cs.usask.ca/images/news/2018/tayabSoomro.jpg)
 
 ## Summary
 
