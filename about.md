@@ -41,7 +41,7 @@ Genetics · Machine Learning · Data Science
   
 <hr />
   
-**Teacher Assistant (Department of Computer Science)**  
+**Teacher Assistant (Department of Veterinary Microbiology)**  
   Course Title: [Techniques in Molecular Biology](https://catalogue.usask.ca/VTMC-831)
   Duration: May 2017
   -	Teacher assistant for nanopore module of the course.
