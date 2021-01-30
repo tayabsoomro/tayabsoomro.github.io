@@ -25,7 +25,7 @@ feed.entries.each do |e|
         doc.data['title'] = title;
         doc.data['feed_content'] = content;
         doc.data['link'] = link
-        doc.data['pubDate'] = Jekyll::Timeago.timeago(pubDate, to = Date.today, options = {},locale: :es)
+        doc.data['pubDate'] = Jekyll::Timeago.timeago(pubDate, to = Date.today, options = {locale: :es})
         doc.data['cover_img'] = Nokogiri::HTML(content).xpath("//img")[0]['src']
         jekyll_coll.docs << doc
       end
