@@ -1,0 +1,15 @@
+<div class="row justify-content-center">
+  {% for e in site.external_feed %}
+  <div class="card p-0 m-2" style="width: 18rem;">
+    <a href={{e.link}}>
+      <img class="card-img-top" src="https://cdn-images-1.medium.com/max/1024/0*qKr8ieVhVQQTKKbC.jpg" alt="Card image cap" style="min-width: 100%">
+      <div class="card-body">
+        <h5 class="card-title">{{ e.title }}</h5>
+      </div>
+      <div class="card-footer text-muted font-weight-light text-capitalize">
+        Published: {{e.pubDate}}
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>

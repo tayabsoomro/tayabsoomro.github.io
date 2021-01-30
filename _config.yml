@@ -18,7 +18,7 @@ avatar: https://www.cs.usask.ca/images/news/2018/tayabSoomro.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email:
   facebook: tayab96
   flickr:
   github: tayabsoomro
@@ -52,6 +52,10 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+
+# for medium blog posts
+collections:
+  - external_feed
 
 permalink: /:title/
 
